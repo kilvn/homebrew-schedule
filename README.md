@@ -5,7 +5,7 @@ homebrew core/cask update schedule.
 
 ### ClashX.Meta
 
-#### 添加 Mihomo Party 的 Tap
+#### 添加Tap
 
 `brew tap kilvn/homebrew-schedule`
 
